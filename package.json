@@ -1,6 +1,6 @@
 {
   "name": "streaming-jpegoptim",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Wrapper for apt package jpegoptim for image compression streaming.",
   "main": "index.js",
   "scripts": {

@@ -1,1 +1,1 @@
-module.exports = require(".src/streaming-jpegoptim.js");
+module.exports = require("./src/streaming-jpegoptim.js");
