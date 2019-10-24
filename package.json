@@ -1,31 +1,24 @@
 {
   "name": "streaming-jpegoptim",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Wrapper for apt package jpegoptim for image compression streaming.",
   "main": "index.js",
   "scripts": {
     "test": "mocha ./src"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
-  "lint-staged": {
-    "*.js": [
-      "eslint --fix",
-      "prettier --write",
-      "git add"
-    ],
-    "*.{css,html,json,md}": [
-      "prettier --write",
-      "git add"
-    ]
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jackson-elfers/streaming-jpegoptim.git"
   },
+  "keywords": [
+    "streaming",
+    "jpegoptim",
+    "wrapper",
+    "image",
+    "compression",
+    "package",
+    "apt"
+  ],
   "author": "jackson-elfers",
   "license": "MIT",
   "bugs": {
