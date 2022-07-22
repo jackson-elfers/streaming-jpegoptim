@@ -48,7 +48,7 @@
     "prettier": "^1.18.2"
   },
   "dependencies": {
-    "file-type": "^12.3.1",
+    "file-type": "^16.5.4",
     "uuid": "^3.3.3"
   }
 }
